@@ -45,7 +45,6 @@ Futuro Ingeniero en Sistemas y desarrollador apasionado por crear herramientas e
 - 💬 Abierto a colaboraciones y contribuciones  
 - ✉️ nopuedeser444@proton.me
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100" alt="footer" />
