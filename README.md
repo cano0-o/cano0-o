@@ -24,8 +24,8 @@ Futuro Ingeniero en Sistemas y desarrollador apasionado por crear herramientas e
 - [**Rally Project**](https://github.com/Morche17/rally-project)  
   Proyecto del rally latinoamericano 2024 enfocado en la reducción de desperdicios alimentarios.
 
-- [**Image Filter Application**](https://github.com/cano0-o/Image-Filter-Application-using-Python-and-Tkinter)  
-  Editor de imágenes construido con Python y Tkinter que permite aplicar diversos filtros y transformaciones a las imágenes.
+- [**Virtual Market*](https://github.com/cano0-o/Virtual-Market)  
+  Pagina web fuetemente inspirada en tiendad en linea como Amazon y Mercado Libre.
 
 ---
 
