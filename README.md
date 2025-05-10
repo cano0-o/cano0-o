@@ -27,8 +27,6 @@ Desarrollador apasionado por crear herramientas eficientes y minimalistas. Me es
 ---
 
 ### 📫 Contacto
-
-- 📍 Ensenada, Baja California, México
 - 💬 Abierto a colaboraciones y contribuciones
 - ✉️ nopuedeser444@proton.me
 
