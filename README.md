@@ -24,15 +24,6 @@ Futuro Ingeniero en Sistemas y desarrollador apasionado por crear herramientas e
 - [**Virtual Market**](https://github.com/cano0-o/Virtual-Market)  
   Página web fuertemente inspirada en tiendas en línea como Amazon y Mercado Libre.
 
----
-
-### 📫 Contacto
-
-- 💬 Abierto a colaboraciones y contribuciones  
-- ✉️ nopuedeser444@proton.me
-
----
-
 ### 📊 Stats & Gráficas
 
 <p align="center">
@@ -52,3 +43,12 @@ Futuro Ingeniero en Sistemas y desarrollador apasionado por crear herramientas e
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100" alt="footer" />
 </p>
+
+---
+
+### 📫 Contacto
+
+- 💬 Abierto a colaboraciones y contribuciones  
+- ✉️ nopuedeser444@proton.me
+
+---
