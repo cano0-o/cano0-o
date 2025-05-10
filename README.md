@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Desarrollador apasionado por crear herramientas eficientes y minimalistas. Me especializo en **C**, **Dart**, **Java** y **Python**, disfruto construyendo desde Analizadores Lexicos y Sintacticos, hasta aplicaciones moviles multiplataforma.
+Futuro Ingeniero en Sistemas y desarrollador apasionado por crear herramientas eficientes y minimalistas. Me especializo en **C**, **Dart**, **Java** y **Python**, disfruto construyendo desde Analizadores Lexicos y Sintacticos, hasta aplicaciones moviles multiplataforma.
 
 ---
 
