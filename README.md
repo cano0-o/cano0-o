@@ -24,7 +24,7 @@ Futuro Ingeniero en Sistemas y desarrollador apasionado por crear herramientas e
 - [**Rally Project**](https://github.com/Morche17/rally-project)  
   Proyecto del rally latinoamericano 2024 enfocado en la reducción de desperdicios alimentarios.
 
-- [**Virtual Market*](https://github.com/cano0-o/Virtual-Market)  
+- [**Virtual Market**](https://github.com/cano0-o/Virtual-Market)  
   Pagina web fuetemente inspirada en tiendad en linea como Amazon y Mercado Libre.
 
 ---
