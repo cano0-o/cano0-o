@@ -1,6 +1,9 @@
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=¡Hola!%20Soy%20Alfonso%20Cano%20👋&fontSize=40&animation=fadeIn" alt="header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=%C2%A1Hola!+Soy+Alfonso+Cano+%F0%9F%91%8B;Bienvenido+a+mi+perfil+de+GitHub" alt="Typing SVG" />
 </p>
+
 
 ---
 
