@@ -23,7 +23,7 @@ Futuro Ingeniero en Sistemas y desarrollador apasionado por crear herramientas e
 
 - [**Virtual Market**](https://github.com/cano0-o/Virtual-Market)  
   Página web fuertemente inspirada en tiendas en línea como Amazon y Mercado Libre.
-
+---
 ### 📊 Stats & Gráficas
 
 <p align="center">
