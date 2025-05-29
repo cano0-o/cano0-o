@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Futuro Ingeniero en Sistemas y desarrollador apasionado por crear herramientas eficientes y minimalistas. Me especializo en **C**, **Dart**, **PHP**, **Java** y **Python**, disfruto construyendo desde Analizadores Léxicos y Sintácticos, hasta aplicaciones móviles multiplataforma.
+ Técnico Físico-Matemático en Programación y futuro Ingeniero en Sistemas. Desarrollador apasionado por crear herramientas eficientes y minimalistas.Me especializo en **C**, **Dart**, **PHP**, **Java** y **Python**, disfruto construyendo desde Analizadores Léxicos y Sintácticos, hasta aplicaciones móviles multiplataforma.
 
 ---
 
